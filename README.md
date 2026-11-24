@@ -1,3 +1,2 @@
 # Semantic-File-System
-Still confused but getting the hang of git
-Gotta keep the streak somehow lol
+A file manager where you can describe the file you are searching for to find it's location.
